@@ -8,21 +8,24 @@
 </head>
 <body>
 	<div class="row">
-  		<div class="col">
+  		<div class="col-sm-2">
   			<img src="asset/images/lol_acceuil.png">
   		</div>
-  		<div class="col">
-  			<img src="asset/images/wow_acceuil.png">
+  		<div class="col-sm-2">
+  			<img src="asset/images/hearthstone_acceuil.png">
   		</div>
-  		<div class="col">
+  		<div class="col-sm-2">
   			<img src="asset/images/ow_acceuil.png">
   		</div>
-  		<div class="col">
+  		<div class="col-sm-2">
   			<img src="asset/images/cs_acceuil.png">
   		</div>
-  		<div class="col">col</div>
-  		<div class="col">col</div>
-  		<div class="col">col</div>
+  		<div class="col-sm-2">
+  			<img src="asset/images/cod_acceuil.png">
+  		</div>
+  		<div class="col-sm-2">
+  			<img src="asset/images/fifa_acceuil.png">
+  		</div>
 	</div>
 </body>
 </html>
