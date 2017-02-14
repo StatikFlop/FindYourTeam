@@ -1,6 +1,5 @@
 <div class="slideshow">
   <ul>
-    <div class="col-sm-2">
       <li><img src="asset/images/lol_acceuil.png" alt="" width="230" height="700" /></li>
       <li><img src="asset/images/hearthstone_acceuil.png" alt="" width="230" height="700" /></li>
       <li><img src="asset/images/ow_acceuil.png" alt="" width="230" height="700" /></li>
@@ -10,7 +9,6 @@
       <li><img src="asset/images/ow_acceuil.png" alt="" width="230" height="700" /></li>
       <li><img src="asset/images/cod_acceuil.png" alt="" width="230" height="700" /></li>
       <li><img src="asset/images/hearthstone_acceuil.png" alt="" width="230" height="700" /></li>
-    </div>
   </ul>
 </div>
  
