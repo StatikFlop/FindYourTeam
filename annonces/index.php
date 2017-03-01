@@ -16,7 +16,7 @@
 
 	<title>Annonce</title>
 </head>
-<body>
+<body style="background-color: grey;">
 
   <?php 
     include "../view/menu.php";
