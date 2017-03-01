@@ -13,11 +13,33 @@
 </div>
  
 <script type="text/javascript">
-   $(function(){
-      setInterval(function(){
-         $(".slideshow ul").animate({marginLeft:-240},800,function(){
-            $(this).css({marginLeft:0}).find("li:last").after($(this).find("li:first"));
-         })
-      }, 3500);
-   });
+var timerId = 0;
+var carrousel = 0;
+
+  $(".slideshow").mouseover(function(){
+
+    if (carrousel == 0)
+    {
+      console.log("enter");
+      carrousel = 1;
+      clearInterval(timerId);
+      timerId = 0;
+    }
+  });
+
+  $(".slideshow").mouseout(function(){
+
+    if (carrousel == 1 && timerId == 0)
+    {
+      console.log("out");
+      carrousel = 0;
+      
+      timerId = setInterval(function(){
+       $(".slideshow ul").animate({marginLeft:-240},800,function(){
+           $(this).css({marginLeft:0}).find("li:last").after($(this).find("li:first"));
+       })
+    }, 3500);
+
+    }
+  });
 </script>
