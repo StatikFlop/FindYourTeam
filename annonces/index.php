@@ -3,7 +3,7 @@
 <head>
 	<title>Annonce</title>
 
-  <?php include "view/head.php" ?>
+  <?php include "../view/head.php" ?>
 </head>
 <body style="background-color: grey;">
 

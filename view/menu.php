@@ -3,11 +3,6 @@
     <div class="navbar-header">
       <a class="navbar-brand" href="#">Find Your Team</a>
     </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">Page 1</a></li>
-      <li><a href="#">Page 2</a></li>
-    </ul>
     <ul class="nav navbar-nav navbar-right">
       <li><input type="search" class="input-sm form-control" placeholder="Recherche" style="width: 250px;"></li>
       <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
