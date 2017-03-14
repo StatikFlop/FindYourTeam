@@ -1,18 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-<meta name="Content-Language" content="fr" />
-<meta name="Description" content="" />
-<meta name="Keywords" content="" />
-<meta name="Subject" content="" />
-<meta name="Content-Type" content="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
-<link rel="stylesheet" href="style.css" />
-<title>Inscription</title>
-</head>
+<?php include "head.php" ?>
 
 <body class="my_background">
 
