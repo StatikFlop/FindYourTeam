@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <?php
-$bdd = new PDO('mysql:host=localhost;dbname=findyourteam', 'root', 'holow27');
+$bdd = new PDO('mysql:host=localhost;dbname=findyourteam', 'root', '');
 ?>
 <html>
 <head>
@@ -15,13 +15,13 @@ $bdd = new PDO('mysql:host=localhost;dbname=findyourteam', 'root', 'holow27');
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="style.css" />
 <?php
-$id = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
-$pseudo = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
-$nom = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
-$prenom = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
-$mail = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
-$bio = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
-$dateNaissance = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$id = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$pseudo = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$nom = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$prenom = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$mail = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$bio = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
+	$dateNaissance = $bdd->prepare('SELECT * FROM ft_user WHERE id=1');
 ?>
 <title>Profil</title>
 </head>
