@@ -8,14 +8,14 @@ $(document).ready(function(){
 		$champ = $('.champ');
 
 	$champ.keydown(function(){
-		if($(this).val().length < 5){ //Si la chaine de caractÃ¨re es inférieure Ã  5
-			$(this).css({//On le rend rouge
+		if($(this).val().length < 5){
+			$(this).css({
 				borderColor : 'red',
 				color : 'red'
 				});
 			}
 			else{
-				$(this).css({//Si tout est bon, il est vert
+				$(this).css({
 					borderColor : 'green',
 					color : 'green'
 			});

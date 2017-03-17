@@ -4,7 +4,7 @@
 	<title>Find Your Team</title>
 	<?php include "view/head.php" ?>
 </head>
-<body>
+<body style="background-color: black; overflow : hidden;">
 
   <?php include "view/menu.php" ?>
 

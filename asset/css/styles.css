@@ -1,9 +1,3 @@
-body
-{
-	background-color: black;
-	overflow : hidden;
-}
-
 .slideshow ul {
     /* 4 images donc 4 x 100% */
    width: 700%;
