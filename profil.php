@@ -6,6 +6,7 @@
 	</head>
 
 	<body class="my_background">
+		<?php include "view/menu.php" ?>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-offset-2 col-md-8">
