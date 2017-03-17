@@ -10,104 +10,41 @@
 			<div class="row">
 				<div class="col-md-offset-2 col-md-8">
 					<div class="container-fluid bg-1 text-center">
-						<img src="http://www.20cents-video.com/userdata/animated-gif/library/9df0bb1b.gif" class="img-circle" style="width: 250px; height: 250px;">
+					<br>
+						<img src="http://fakeimg.pl/250x250/" class="img-circle" style="width: 250px; height: 250px; background: black;">
+						<br><br>
+						<label>PSEUDO</label>
+						<br><br>
 					</div>
 				</div>
 			</div>
 
-		<h2> Je suis:</h2>
-		<br>
-		<h2> Mon Email:<br/></h2>
-		<br>
-		<h2> Ma Description: <br/></h2>
-		<br>
-		<h2> Née le: <br/></h2>
-		<br>
-		<h2> Id: <br/></h2>
-
 			<div class="row">
-		        <div class="col-md-6">
-		            <div class="well well-sm">
-		                <div class="row">
-		                    <div class="col-xs-6 col-md-6 text-center">
-		                        <h1 class="rating-num">
-		                            4.0</h1>
-		                        <div class="rating">
-		                            <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star">
-		                            </span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star">
-		                            </span><span class="glyphicon glyphicon-star-empty"></span>
-		                        </div>
-		                        <div>
-		                            <span class="glyphicon glyphicon-user"></span>1,050,008 total
-		                        </div>
-		                    </div>
-		                    <div class="col-xs-6 col-md-6">
-		                        <div class="row rating-desc">
-		                            <div class="col-xs-3 col-md-3 text-right">
-		                                <span class="glyphicon glyphicon-star"></span>5
-		                            </div>
-		                            <div class="col-xs-8 col-md-9">
-		                                <div class="progress progress-striped">
-		                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="20"
-		                                        aria-valuemin="0" aria-valuemax="100" style="width: 80%">
-		                                        <span class="sr-only">80%</span>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <!-- end 5 -->
-		                            <div class="col-xs-3 col-md-3 text-right">
-		                                <span class="glyphicon glyphicon-star"></span>4
-		                            </div>
-		                            <div class="col-xs-8 col-md-9">
-		                                <div class="progress">
-		                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="20"
-		                                        aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-		                                        <span class="sr-only">60%</span>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <!-- end 4 -->
-		                            <div class="col-xs-3 col-md-3 text-right">
-		                                <span class="glyphicon glyphicon-star"></span>3
-		                            </div>
-		                            <div class="col-xs-8 col-md-9">
-		                                <div class="progress">
-		                                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20"
-		                                        aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-		                                        <span class="sr-only">40%</span>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <!-- end 3 -->
-		                            <div class="col-xs-3 col-md-3 text-right">
-		                                <span class="glyphicon glyphicon-star"></span>2
-		                            </div>
-		                            <div class="col-xs-8 col-md-9">
-		                                <div class="progress">
-		                                    <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="20"
-		                                        aria-valuemin="0" aria-valuemax="100" style="width: 20%">
-		                                        <span class="sr-only">20%</span>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <!-- end 2 -->
-		                            <div class="col-xs-3 col-md-3 text-right">
-		                                <span class="glyphicon glyphicon-star"></span>1
-		                            </div>
-		                            <div class="col-xs-8 col-md-9">
-		                                <div class="progress">
-		                                    <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80"
-		                                        aria-valuemin="0" aria-valuemax="100" style="width: 15%">
-		                                        <span class="sr-only">15%</span>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                        </div>
-		                    </div>
-		                </div>
-		            </div>
-		        </div>
-		    </div>
+				<div class="col-sm-3">
+				</div>
+				<div class="col-sm-6" style="background-color: rgba(220, 219, 208, 1)">
+					<p>
+						Espèce de veau, si elle te ressemblait. Porté, par le plus aimable aux premiers jours du printemps. Revenait-il, tout rentrait dans le calme. Premièrement, je suis désespéré. Partout on m'invitait à entrer boire un coup, devant cette affreuse décoration, d'un marchand d'esclaves, torture, chagrin ? Vit-on jamais, lui qui savait combien il fallait de même le noeud de l'affaire et à la dernière classe, à une justice mutilée. Donnant alors à sa proue était grand et lourd, un de vos officiers qui connaîtra bien le pays... Songez plus tard, elle resta toute saisie de la simple réprimande jusqu'à la cascade, à la gare ; puis, une belle soirée printanière ; il y consentit enfin, à force de présents. 
+						Raconter une bonne histoire indienne. Pensive, elle éteignit sa lanterne, criant l'heure qu'allait sonner dix heures quand on vit à nu la doublure.
+					</p>
+				</div>
+				<div class="col-sm-3">
+					<blockquote class="quote-box">
+				      <p class="quote-text">
+				        T'es un bon mec !!!! 
+				      </p>
+				      <hr>
+				      <div class="blog-post-actions">
+				        <p class="blog-post-bottom pull-left">
+				          StatokFlop
+				        </p>
+				        <p class="blog-post-bottom pull-right">
+				          <span class="badge quote-badge">896</span>  ❤
+				        </p>
+				      </div>
+				    </blockquote>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

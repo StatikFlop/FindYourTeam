@@ -35,7 +35,7 @@ var carrousel = 0;
       carrousel = 0;
       
       timerId = setInterval(function(){
-       $(".slideshow ul").animate({marginLeft:-240},800,function(){
+       $(".slideshow ul").animate({marginLeft:-260},800,function(){
            $(this).css({marginLeft:0}).find("li:last").after($(this).find("li:first"));
        })
     }, 3500);
