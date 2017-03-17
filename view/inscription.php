@@ -16,7 +16,7 @@
 			<div class="col-md-offset-2 col-md-3">
 				<div class="form-group">
 					<label for="Pseudo">Pseudo</label>
-					<input type="text" class="form-control" name="pseudo" placeholder="Pseudo">
+					<input type="text" class="form-control champ" id="pseudo" name="pseudo" placeholder="Pseudo">
 				</div>
 			</div>
 		</div>
@@ -25,7 +25,7 @@
 			<div class="col-md-offset-2 col-md-7">
 				<div class="form-group">
 					<label for="Email">Address Email </label>
-					<input type="text" class="form-control" name="email" placeholder="Enter email">
+					<input type="text" class="form-control champ" id="email" name="email" placeholder="Enter email">
 				</div>
 			</div>
 		</div>
@@ -34,13 +34,13 @@
 			<div class="col-md-offset-2 col-md-3">
 				<div class="form-group">
 					<label for="Password">Mot de passe</label>
-					<input type="password" class="form-control" name="password" placeholder="Mot de passe">
+					<input type="password" class="form-control champ" id="password" name="password" placeholder="Mot de passe">
 				</div>
 			</div>
 			<div class="col-md-offset-1 col-md-3">
 				<div class="form-group">
 					<label for="Vpassword">Vérification mot de passe</label>
-					<input type="password" class="form-control" name="vpassword" placeholder="Vérification mot de passe">
+					<input type="password" class="form-control champ" id="vpassword" name="vpassword" placeholder="Vérification mot de passe">
 				</div>
 			</div>
 		</div>
@@ -49,11 +49,11 @@
 			<div class="col-md-offset-2 col-md-3">
 				<div class="input-group">
 					<span class="input-group-addon glyphicon glyphicon-earphone"></span>
-					<input type="text" class="form-control" placeholder="Téléphone" name="tel" aria-describedby="basic-addon1">
+					<input type="text" class="form-control champ" placeholder="Téléphone" name="tel" aria-describedby="basic-addon1">
 				</div>
 				<div class="input-group">
 					<span class="input-group-addon glyphicon glyphicon-globe"></span>
-					<input type="text" class="form-control" placeholder="Adresse" aria-describedby="basic-addon1">
+					<input type="text" class="form-control champ" placeholder="Adresse" aria-describedby="basic-addon1">
 				</div>
 			</div>
 		</div>
@@ -61,7 +61,7 @@
 		<br/>
 		<div class="row">
 		<div class="col-md-offset-5 col-md-1">
-			<button type="submit" class="btn btn-primary">Envoyer mes informations</button>
+			<button type="submit" class="btn btn-primary" id="envoi">Envoyer mes informations</button>
 		</div>
 		</form>
 	</div>
@@ -69,22 +69,11 @@
 
 	</div>
 </body>
+<script type="text/javascript" src="../asset/js/inscri.js"></script>
 </html>
 <?php
 	$pseudo = $_POST['pseudo'];
 	$mdp = $_POST['password'];
 	$vmdp = $_POST['vpassword'];
 	$mail = $_POST['email'];
-
-	if ($mdp != $vmdp) 
-	{
-		echo '<div class="alert alert-danger">
-  		<strong>Danger!</strong> Vos mot de passe sont différents.
-	</div>';
-	}
-	else
-	{
-
-	}
-
 ?>
