@@ -8,7 +8,7 @@
 
   <?php include "view/menu.php" ?>
 
-	<div class="row" style="padding-top: 50px; padding-left: 30px;">
+	<div class="row" style="padding-top: 15px; padding-left: 30px;">
   <?php include "view/carroussel.php" ?>
 	</div>
 </body>
