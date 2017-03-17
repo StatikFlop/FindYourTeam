@@ -23,11 +23,31 @@
 				<div class="col-sm-3">
 				</div>
 				<div class="col-sm-6" style="background-color: rgba(220, 219, 208, 1)">
-					<p>
-						Espèce de veau, si elle te ressemblait. Porté, par le plus aimable aux premiers jours du printemps. Revenait-il, tout rentrait dans le calme. Premièrement, je suis désespéré. Partout on m'invitait à entrer boire un coup, devant cette affreuse décoration, d'un marchand d'esclaves, torture, chagrin ? Vit-on jamais, lui qui savait combien il fallait de même le noeud de l'affaire et à la dernière classe, à une justice mutilée. Donnant alors à sa proue était grand et lourd, un de vos officiers qui connaîtra bien le pays... Songez plus tard, elle resta toute saisie de la simple réprimande jusqu'à la cascade, à la gare ; puis, une belle soirée printanière ; il y consentit enfin, à force de présents. 
-						Raconter une bonne histoire indienne. Pensive, elle éteignit sa lanterne, criant l'heure qu'allait sonner dix heures quand on vit à nu la doublure.
-					</p>
+					<br>
+					<div class="col-sm-7">
+					test
+					</div>
+					<div class="col-sm-4">
+						<label style="font: bold 14px/18px Helvetica, Arial, sans-serif;"><img src="asset/images/twitter/Twitter_Social_Icon_Blue.png" style="width: 30px;">@StatikFlop</label>
+					</div>
+
+					<br><br>
+					<div class="col-sm-7">
+					test
+					</div>
+					<div class="col-sm-4">
+						<label><img src="asset/images/youtube/YouTube-icon-full_color.png" style="width: 25px;">		@StatikFlop</label>
+					</div>
+
+					<br><br>
+					<div class="col-sm-7">
+					test
+					</div>
+					<div class="col-sm-4">
+						<label><img src="asset/images/twitch/Glitch_Purple_RGB.png" style="width: 25px;">		@StatikFlop</label>
+					</div>
 				</div>
+
 				<div class="col-sm-3">
 					<blockquote class="quote-box">
 				      <p class="quote-text">
