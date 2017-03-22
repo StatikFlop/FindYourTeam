@@ -74,6 +74,5 @@
 <?php
 	$pseudo = $_POST['pseudo'];
 	$mdp = $_POST['password'];
-	$vmdp = $_POST['vpassword'];
 	$mail = $_POST['email'];
 ?>
