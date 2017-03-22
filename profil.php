@@ -1,7 +1,11 @@
 ﻿<!DOCTYPE html>
 <html>
 	<head>
-		<?php include "view/head.php" ?>
+		<?php
+			include "view/head.php";
+			include "asset/config.php";
+			session_start();
+		?>
 		<title>Profil</title>
 	</head>
 
@@ -15,25 +19,26 @@
 				<div class="col-sm-6">
 					<div class="container-fluid bg-1 text-center">
 						<br>
-							<img src="http://fakeimg.pl/250x250/" class="img-circle" style="width: 250px; height: 250px; background: black;">
+							<img src=<?php echo $_SESSION['photoProfil']; ?> class="img-circle" style="width: 250px; height: 250px; background: black;">
 							<br><br>
-							<label>PSEUDO</label>
+							<label><?php echo $_SESSION['pseudo']; ?></label>
 							<br><br>
 					</div>
 
 					<br>
 
 					<div class="col-sm-7">
-					test
+					<strong>Bio :</strong> <br>
+						<?php echo $_SESSION['bio']; ?>
 					</div>
 					<div class="col-sm-4">
-						<label style="font: bold 14px/18px Helvetica, Arial, sans-serif;"><img src="asset/images/twitter/Twitter_Social_Icon_Blue.png" style="width: 29px;">@StatikFlop</label>
+						<label style="font: bold 14px/18px Helvetica, Arial, sans-serif;"><img src="asset/images/twitter/Twitter_Social_Icon_Blue.png" style="width: 29px;"><?php echo $_SESSION['twitter']; ?></label>
 						<br><br>
-						<label><img src="asset/images/youtube/YouTube-icon-full_color.png" style="width: 29px;">		@StatikFlop</label>
+						<label><img src="asset/images/youtube/YouTube-icon-full_color.png" style="width: 29px;">		<?php echo $_SESSION['youtube']; ?></label>
 						<br><br>
-						<label><img src="asset/images/twitch/Glitch_Purple_RGB.png" style="width: 29px;">		@StatikFlop</label>
+						<label><img src="asset/images/twitch/Glitch_Purple_RGB.png" style="width: 29px;">		<?php echo $_SESSION['twitch']; ?></label>
 						<br><br>
-						<label><img src="asset/images/facebook/FB-f-Logo__blue_29.png">		@StatikFlop</label>
+						<label><img src="asset/images/facebook/FB-f-Logo__blue_29.png">		<?php echo $_SESSION['facebook']; ?></label>
 					</div>
 				</div>
 
