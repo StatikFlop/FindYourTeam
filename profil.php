@@ -24,33 +24,15 @@
 					<br>
 
 					<div class="col-sm-7">
-						test
+					test
 					</div>
 					<div class="col-sm-4">
 						<label style="font: bold 14px/18px Helvetica, Arial, sans-serif;"><img src="asset/images/twitter/Twitter_Social_Icon_Blue.png" style="width: 29px;">@StatikFlop</label>
-					</div>
-
-					<br><br>
-					<div class="col-sm-7">
-					test
-					</div>
-					<div class="col-sm-4">
+						<br><br>
 						<label><img src="asset/images/youtube/YouTube-icon-full_color.png" style="width: 29px;">		@StatikFlop</label>
-					</div>
-
-					<br><br>
-					<div class="col-sm-7">
-					test
-					</div>
-					<div class="col-sm-4">
+						<br><br>
 						<label><img src="asset/images/twitch/Glitch_Purple_RGB.png" style="width: 29px;">		@StatikFlop</label>
-					</div>
-
-					<br><br>
-					<div class="col-sm-7">
-					test
-					</div>
-					<div class="col-sm-4">
+						<br><br>
 						<label><img src="asset/images/facebook/FB-f-Logo__blue_29.png">		@StatikFlop</label>
 					</div>
 				</div>
