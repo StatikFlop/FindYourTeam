@@ -39,7 +39,8 @@
   if (!empty($donnees))
   {
     session_start();
-
+    
+    $_SESSION['id'] = $donnees['id'];
     $_SESSION['pseudo'] = $donnees['pseudo'];
     $_SESSION['facebook'] = $donnees['facebook'];
     $_SESSION['twitter'] = $donnees['twitter'];
@@ -48,13 +49,6 @@
     $_SESSION['bio'] = $donnees['bio'];
     $_SESSION['photoProfil'] = $donnees['photoProfil'];
 
-    echo $_SESSION['pseudo'];
-  }
-  else
-  {
-    echo '
-    <div class="alert alert-danger">
-      <strong>Attention!</strong>Mauvais Identifiants.
-    </div>';
+    header('Location: ../profil.php');
   }
 ?>
