@@ -39,8 +39,8 @@
 			</div>
 			<div class="col-md-offset-1 col-md-3">
 				<div class="form-group">
-					<label for="Vpassword">Vérification mot de passe</label>
-					<input type="password" class="form-control champ" id="vpassword" name="vpassword" placeholder="Vérification mot de passe">
+					<label for="Vpassword">VÃ©rification mot de passe</label>
+					<input type="password" class="form-control champ" id="vpassword" name="vpassword" placeholder="VÃ©rification mot de passe">
 				</div>
 			</div>
 		</div>
@@ -49,7 +49,7 @@
 			<div class="col-md-offset-2 col-md-3">
 				<div class="input-group">
 					<span class="input-group-addon glyphicon glyphicon-earphone"></span>
-					<input type="text" class="form-control champ" placeholder="Téléphone" name="tel" aria-describedby="basic-addon1">
+					<input type="text" class="form-control champ" placeholder="TÃ©lÃ©phone" name="tel" aria-describedby="basic-addon1">
 				</div>
 				<div class="input-group">
 					<span class="input-group-addon glyphicon glyphicon-globe"></span>
@@ -71,8 +71,9 @@
 </body>
 <script type="text/javascript" src="../asset/js/inscri.js"></script>
 </html>
+
 <?php
 	$pseudo = $_POST['pseudo'];
 	$mdp = $_POST['password'];
-	$mail = $_POST['email'];
+	$mail = $_POT['email'];
 ?>
